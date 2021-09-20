@@ -22,6 +22,10 @@ a:hover{
     background-color: transparent;
 }
 
+.hierarchy a{
+    color: inherit;
+}
+
 
 h1{
     border-style: dashed;
@@ -75,9 +79,7 @@ p.exqu{
     text-shadow: 3px 5px 3px;
 }
 
-q {
-    font: small-caption;
-}
+
 
 img{
     width: 300px;
